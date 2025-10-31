@@ -27,7 +27,4 @@ The primary evaluation metric used is the **Root Mean Squared Error (RMSE) betwe
 *   **Log-RMSE**: 0.3052
 *   **Median APE**: 15.914%
 
-**Result Description:**
-
-Based on the evaluation, the model's predictions typically have a percentage error of around 15.9%. The Log-RMSE provides another measure of prediction accuracy, focusing on relative differences.
 
